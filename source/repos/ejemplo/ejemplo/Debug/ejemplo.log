@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  ejemplo.cpp
+c:\users\adria.sebastia\source\repos\ejemplo\ejemplo\ejemplo.cpp(23): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ejemplo.vcxproj -> C:\Users\adria.sebastia\source\repos\ejemplo\Debug\ejemplo.exe
